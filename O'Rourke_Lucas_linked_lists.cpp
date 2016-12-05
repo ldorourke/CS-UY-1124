@@ -1,3 +1,8 @@
+/*
+Lucas O'Rourke
+An introduction to linked lists and methods to use them
+*/
+
 #include <cstdlib> // To allow NULL if no other includes
 #include <iostream>
 using namespace std;
