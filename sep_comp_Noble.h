@@ -7,8 +7,8 @@
  */
 
 
-#ifndef NOBLE_H
-#define NOBLE_H
+#ifndef SEP_COMP_NOBLE_H
+#define SEP_COMP_NOBLE_H
 
 #include <string>
 #include <vector>
