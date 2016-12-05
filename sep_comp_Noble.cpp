@@ -6,8 +6,8 @@
  The code for the Noble class
  */
 
-#include "Noble.h"
-#include "Warrior.h"
+#include "sep_comp_Noble.h"
+#include "sep_comp_Warrior.h"
 #include <vector>
 #include <string>
 #include <iostream>
