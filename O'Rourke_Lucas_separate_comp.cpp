@@ -7,8 +7,8 @@
  */
 
 
-#include "Noble.h"
-#include "Warrior.h"
+#include "sep_comp_Noble.h"
+#include "sep_comp_Warrior.h"
 #include <iostream>
 #include <vector>
 #include <string>
