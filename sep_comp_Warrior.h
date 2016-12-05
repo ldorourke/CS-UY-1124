@@ -6,8 +6,8 @@
  The header for the Warrior class
  */
 
-#ifndef WARRIOR_H
-#define WARRIOR_H
+#ifndef SEP_COMP_WARRIOR_H
+#define SEP_COMP_WARRIOR_H
 #include <string>
 
 namespace WarriorCraft {
